@@ -1,0 +1,10 @@
+{
+  "origin": "KBNA",
+  "destination": "KDTS",
+  "departure": "2026-10-05T15:00:00.000Z",
+  "flexibleTime": true,
+  "timezone": "America/Chicago",
+  "passengers": 2,
+  "tripType": "one-way",
+  "notes": ""
+}

@@ -1,0 +1,19 @@
+{
+  "status": "positioning_enroute",
+  "demo": true,
+  "aircraft": { "name": "Piper Malibu", "tailNumber": "N123AB" },
+  "crewConfirmed": true,
+  "timezone": "America/Chicago",
+  "pickup": { "code": "KJWN", "name": "John C Tune Airport", "city": "Nashville", "latitude": 36.1824, "longitude": -86.886703 },
+  "destination": { "code": "KDTS", "name": "Destin Executive Airport", "city": "Destin", "latitude": 30.400101, "longitude": -86.471497 },
+  "positioningOrigin": { "code": "KCKV", "name": "Clarksville–Montgomery County Regional Airport", "city": "Clarksville", "latitude": 36.621899, "longitude": -87.415001 },
+  "fboInstructions": "Meet your crew in the FBO lobby.",
+  "legs": [
+    { "kind": "positioning", "origin": { "code": "KCKV", "name": "Clarksville–Montgomery County Regional Airport", "city": "Clarksville", "latitude": 36.621899, "longitude": -87.415001 }, "destination": { "code": "KJWN", "name": "John C Tune Airport", "city": "Nashville", "latitude": 36.1824, "longitude": -86.886703 }, "scheduledDeparture": "2026-10-05T13:00:00.000Z", "scheduledArrival": "2026-10-05T14:00:00.000Z", "available": true },
+    { "kind": "customer", "origin": { "code": "KJWN", "name": "John C Tune Airport", "city": "Nashville", "latitude": 36.1824, "longitude": -86.886703 }, "destination": { "code": "KDTS", "name": "Destin Executive Airport", "city": "Destin", "latitude": 30.400101, "longitude": -86.471497 }, "scheduledDeparture": "2026-10-05T15:00:00.000Z", "scheduledArrival": "2026-10-05T17:00:00.000Z", "available": true }
+  ],
+  "position": { "latitude": 36.4, "longitude": -87.13, "altitudeFeet": 6500, "groundSpeedKnots": 180, "heading": 125, "observedAt": "2026-10-05T13:30:00.000Z", "stale": false },
+  "distanceNm": 18,
+  "minutesAway": 6,
+  "updatedAt": "2026-10-05T13:30:05.000Z"
+}
